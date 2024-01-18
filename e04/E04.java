@@ -1,4 +1,5 @@
-class E04 {
+import java.util.Scanner;
+public class E04 {
     public static void main(String[] args) {
     Scanner in = new Scanner(System.in);
     System.out.print("Enter a day: ");
