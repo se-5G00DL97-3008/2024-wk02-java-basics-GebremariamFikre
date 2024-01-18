@@ -1,6 +1,6 @@
 class E01 {
     public static void main(String[] args) {
-        int x =10;
+     int x =10;
         System.out.println(x);
         float y = 5.5f;
         System.out.println(y);
