@@ -1,3 +1,4 @@
+import java.util.Scanner;
 class E02 {
     public static void main(String[] args) {
    Scanner in =new Scanner(System.in);
